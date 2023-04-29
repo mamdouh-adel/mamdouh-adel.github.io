@@ -614,3 +614,14 @@ https://www.tooplate.com/view/2120-ben-resume
       padding: 0.3rem 2rem 0.6rem 2rem;
     }
   }
+
+  .sm-down {
+    margin-top: 50px;
+  }
+
+  #contact {
+    margin-top: 140px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }

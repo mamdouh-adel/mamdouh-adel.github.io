@@ -1,5 +1,13 @@
 .img-profile {
-    width: 100%;
-    height: 90%;
+    width: 60%;
+    height: 80%;
     margin-top: 10px;
+    border-radius: 50%;
+    border-width: 5px;
+    border-color: #00000054;
+    border-style: solid;
+}
+
+.hide {
+    visibility: hidden;
 }
